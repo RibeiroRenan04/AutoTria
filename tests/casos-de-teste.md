@@ -61,9 +61,11 @@ Uma mensagem válida custa cerca de 5 a 6 créditos, porque a IA cobra pelos tok
 
 ## Evidências
 
-Coloque em `tests/evidencias/`:
+Prints em `tests/evidencias/`. Nos prints, os endereços de e-mail reais foram mascarados (aparecem como `cliente.testeN@gmail.com` e `atendimento@exemplo.com`).
 
-- `cenario-make.png`: print do cenário no editor do Make.
-- `tabela-airtable.png`: print da tabela `Contatos` com os 10 registros de teste.
-- `email-confirmacao.png`: print de um e-mail "Recebemos sua mensagem" na caixa de entrada.
-- `formulario.png`: print do formulário "Fale Conosco".
+| Print | O que mostra |
+| --- | --- |
+| [`formulario.png`](evidencias/formulario.png) | Formulário público "Fale Conosco" no Airtable |
+| [`tabela-airtable.png`](evidencias/tabela-airtable.png) | Tabela `Contatos` com os 10 registros de teste e o resultado de cada um |
+| [`email-confirmacao.png`](evidencias/email-confirmacao.png) | E-mail "Recebemos sua mensagem" recebido no teste 1 |
+| `cenario-make.png` | Cenário no editor do Make (a adicionar) |
