@@ -68,4 +68,4 @@ Prints em `tests/evidencias/`. Nos prints, os endereços de e-mail reais foram m
 | [`formulario.png`](evidencias/formulario.png) | Formulário público "Fale Conosco" no Airtable |
 | [`tabela-airtable.png`](evidencias/tabela-airtable.png) | Tabela `Contatos` com os 10 registros de teste e o resultado de cada um |
 | [`email-confirmacao.png`](evidencias/email-confirmacao.png) | E-mail "Recebemos sua mensagem" recebido no teste 1 |
-| `cenario-make.png` | Cenário no editor do Make (a adicionar) |
+| [`cenario-make.png`](evidencias/cenario-make.png) | Cenário "Triagem de Contatos com IA" no editor do Make |

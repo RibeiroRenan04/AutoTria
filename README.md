@@ -94,7 +94,13 @@ O prompt final e a evolução v1 → v4 estão em [`docs/prompts.md`](docs/promp
 
 ## 7. Testes e evidências
 
-**10 de 10 casos de teste passaram** (26/10/2026): 5 classificações corretas, 3 entradas inválidas bloqueadas antes da IA, 1 tentativa de *prompt injection* ignorada e 2 falhas forçadas desviadas para "Revisar manualmente". Detalhes, consumo de créditos e correções em [`tests/casos-de-teste.md`](tests/casos-de-teste.md). Prints em `tests/evidencias/`.
+**10 de 10 casos de teste passaram** (26/10/2026): 5 classificações corretas, 3 entradas inválidas bloqueadas antes da IA, 1 tentativa de *prompt injection* ignorada e 2 falhas forçadas desviadas para "Revisar manualmente". Detalhes, consumo de créditos e correções em [`tests/casos-de-teste.md`](tests/casos-de-teste.md). Prints em `tests/evidencias/` (e-mails reais mascarados):
+
+| Cenário no Make | Tabela no Airtable |
+| --- | --- |
+| ![Cenário no Make](tests/evidencias/cenario-make.png) | ![Tabela Contatos](tests/evidencias/tabela-airtable.png) |
+| **Formulário público** | **E-mail de confirmação** |
+| ![Formulário](tests/evidencias/formulario.png) | ![E-mail de confirmação](tests/evidencias/email-confirmacao.png) |
 
 **Protótipo:**
 
